@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://pixiuo3o.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 12:17:53 +0800</lastBuildDate><atom:link href="http://pixiuo3o.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>解说</title>
+    <link>http://pixiuo3o.github.io/posts/narrator/</link>
+    <pubDate>Fri, 10 Mar 2023 12:17:53 +0800</pubDate>
+    
+    <guid>http://pixiuo3o.github.io/posts/narrator/</guid>
+    <description>
+        &lt;p&gt;&lt;!-- raw HTML omitted --&gt;       1927年2月20日至28日 江西省第一次农民代表大会在南昌举行。与会者141 人，代表 54 个县农会的 30 多万会员。方志敏代表省农会筹备处作会务总报告，国民革命军总政治部副主任郭沫若作政治报告，从广州迁武汉路经南昌的国民政府主席谭延闿和国民党中央农民部代表陈克文、第三军党代表朱克靖、农民国际代表达尔汉诺夫等分别作了报告。大会通过了《江西省农民协会章程》以及《农民自卫军组织大纲》《确定农民协会经费》《保护森林》《整顿水利草案》《开垦荒地》等 35 项决议案;选举大会选举产生执行委员13名，候补执行委员三名；选举方志敏、陆智西、刘一峰、王枕心、邱倜为常务委员。方志敏为委员长兼秘书长，邱倜兼任省农协党团书记，是常委中仅有的两名中共党员。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;       至此，彪炳《中国共产党100年江西大事记》的江西省农民协会正式成立。至7月底，全省有72个县建立农民协会组织，会员发展到 60 万人左右，江西农运“北有方志敏、南有丘倜”，名闻遐迩，为后来龙兴凤举的江西革命奠定了坚实的基础。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+
+    </description>
+    </item>
+    
+  </channel>
+</rss>
